@@ -1,20 +1,9 @@
-## Develop
+# PrimeVue Frontend with TailwindCSS
 
-```shell
-npm create vite@latest .
-npm i
-npm i primevue primeicons tailwindcss-primeui @tailwindcss/vite tailwindcss
-npm i -D @primevue/auto-import-resolver unplugin-vue-components vite-plugin-vue-devtools @tsconfig/node20 @types/node @tailwindcss/postcss
-```
+## Multilanguage README files
 
-## Install
-
-```shell
-npm i
-```
-
-## Run
-
-```shell
-npm run dev
-```
+- [English](README.en.md)
+- [Português](README.pt.md)
+- [Español](README.es.md)
+- [Français](README.fr.md)
+- [简体中文](README.zh.md)
