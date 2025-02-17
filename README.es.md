@@ -2,6 +2,14 @@
 
 Una plantilla para que puedas comenzar rápidamente tu proyecto FastAPI + PrimeVue + TailwindCSS.
 
+## Índice
+
+- [Configuración](#configuración)
+  - [Instalar Dependencias](#instalar-dependencias)
+  - [Ejecutar el Proyecto](#ejecutar-el-proyecto)
+- [Estructura del Proyecto](#estructura-del-proyecto)
+- [Ejecución Autónoma](#ejecución-autónoma)
+
 ## Configuración
 
 Para configurar el proyecto, sigue los pasos a continuación. Esto instalará todas las dependencias necesarias para el frontend y el backend.
@@ -72,3 +80,14 @@ Aquí tienes una visión general de la estructura del proyecto para ayudar a ent
 ├─📄 package.json       # Dependencias y scripts de la raíz
 └─📄 README.md          # Documentación del proyecto
 ```
+
+## Ejecución Autónoma
+
+Para obtener más información sobre cómo ejecutar la solución Backend o Frontend de forma autónoma, consulte la documentación a continuación:
+
+- [Backend](./backend/README.es.md)
+- [Frontend](./frontend/README.es.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |

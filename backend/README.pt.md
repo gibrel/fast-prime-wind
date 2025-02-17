@@ -53,3 +53,9 @@ pipreqs --savepath=requirements.in && pip-compile -q --no-annotate
 ```
 
 - Se o pacote _uvicorn_ estiver faltando, adicione-o manualmente ao arquivo requirements.txt para evitar erros.
+
+[Voltar](../README.pt.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |

@@ -47,3 +47,9 @@ pip install pipreqs pip-tools
 ```
 
 接下来，您将使用 pipreqs 根据代码的导入生成一个 requirements.in 文件。然后使用 pip-compile
+
+[返回](../README.zh.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |

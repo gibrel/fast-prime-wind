@@ -51,3 +51,9 @@ Aquí tienes una visión general de la estructura del proyecto para ayudar a ent
 ```
 
 > TailwindCSS ya está configurado para usar el tema Aura. Está presente en la carpeta presets. Si deseas instalar otro tema, colócalo allí, junto a la carpeta aura.
+
+[Volver](../README.es.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |

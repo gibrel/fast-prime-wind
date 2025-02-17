@@ -51,3 +51,9 @@ npm update
 ```
 
 > TailwindCSS 已经配置为使用 Aura 主题。它位于 presets 文件夹中。如果您希望安装其他主题，请将其放置在 aura 文件夹旁边。
+
+[返回](../README.zh.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |

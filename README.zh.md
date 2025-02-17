@@ -2,6 +2,14 @@
 
 一个模板，让您可以快速启动您的 FastAPI + PrimeVue + TailwindCSS 项目。
 
+## 指数
+
+- [设置](#设置)
+  - [安装依赖](#安装依赖)
+  - [运行项目](#运行项目)
+- [项目结构](#项目结构)
+- [独立运行](#独立运行)
+
 ## 设置
 
 要设置项目，请按照以下步骤操作。这将安装前端和后端的所有必要依赖项。
@@ -72,3 +80,14 @@ npm run start
 ├─📄 package.json       # 根依赖项和脚本
 └─📄 README.md          # 项目文档
 ```
+
+## 独立运行
+
+有关独立运行后端或前端解决方案的更多信息，请查看以下文档：
+
+- [Backend](./backend/README.zh.md)
+- [Frontend](./frontend/README.zh.md)
+
+|  |  |  |  |  |
+|-----:|-----:|-----:|-----:|-----:|
+| [English](README.en.md) |  [Português](README.pt.md) | [Español](README.es.md) | [Français](README.fr.md) | [简体中文](README.zh.md) |
